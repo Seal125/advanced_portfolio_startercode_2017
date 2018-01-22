@@ -81,6 +81,10 @@
     color: black;
 }
 
+#contacts {
+    font-family: "Comfortaa", sans-serif;
+}
+
 #stuff {
     text-align: center;
     color: black;
@@ -100,12 +104,28 @@
     text-align: center;
 }
 
+#title4 {
+    text-align: center;
+}
+
 #stuff {
     text-align: center;
     font-size: large;
+    font-family: "Open Sans", sans-serif;
 }
 
 .subtitle {
     text-align: center;
     font-size: large;
+}
+
+#contact {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+#email {
+    font-family: "Open Sans", sans-serif;
+    font-size: large;
+    text-align: center;
 }
