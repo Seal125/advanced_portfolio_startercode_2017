@@ -108,6 +108,14 @@
     text-align: center;
 }
 
+#title5 {
+    text-align: center;
+}
+
+#title6 {
+    text-align: center;
+}
+
 #stuff {
     text-align: center;
     font-size: large;
@@ -127,5 +135,9 @@
 #email {
     font-family: "Open Sans", sans-serif;
     font-size: large;
-    text-align: center;
+}
+
+#phone {
+    font-family: "Open Sans", sans-serif;
+    font-size: large;
 }
